@@ -4,7 +4,7 @@ A small 2-layer breakout board designed in KiCad. It takes 5 V from a USB-C port
 
 This is the first design I've posted. It has not been fabricated or tested, and I don't plan to build it, so feedback on the design is welcome (see [Status](#status)).
 
-![Angled render](images/ANGLED_RENDER.png)
+![Top view](images/usbc-breakout.png)
 
 ## Features
 
@@ -28,12 +28,11 @@ This is the first design I've posted. It has not been fabricated or tested, and 
 ## Files
 
 - `*.kicad_pro`, `*.kicad_sch`, `*.kicad_pcb`: KiCad project, schematic and board
-- `images/`: renders and screenshots
-  - `ANGLED_RENDER.png`: angled 3D render (USB-C end toward the camera)
-  - `TOP_RENDER.png`: top view
-  - `BOTTOM_RENDER.png`: bottom view
-  - `LAYOUT.png`: 2D board layout
-  - `SCHEMATIC.png`: schematic
+- `images/`: 3D renders
+  - `usbc-breakout.png`: top view
+  - `2.png`: front view
+  - `3.png` and `4.png`: side views
+  - `5.png`: back view
 
 ## Design notes
 
