@@ -51,9 +51,9 @@ This is the first design I've posted. It has not been fabricated or tested, and 
 
 ## Author
 
-YOUR NAME  
-LINKEDIN_LINK
+Hundaol Feyera  
+[LINKEDIN_LINK](https://www.linkedin.com/in/hundaol-feyera-5a99b93a8?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ## License
 
-CHOOSE A LICENSE (for example MIT for the files, or CERN-OHL-P for the hardware)
+MIT
